@@ -1,9 +1,28 @@
 {
   "dependencies": {
+    "ascii": "^1.0.0",
     "discord.js": "^14.11.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "glob": "^10.3.3",
+    "nodemon": "^3.0.1"
   },
   "devDependencies": {
     "eslint": "^8.45.0"
-  }
+  },
+  "name": "valeriebotv2.1",
+  "description": "New updated ValerieBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ValerieBotV2.1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Jay Peura",
+  "license": "ISC"
 }
